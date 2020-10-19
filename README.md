@@ -1,4 +1,4 @@
-Punjabi Language
+Punjabi language
 # NLP for Punjabi
 This repository contains State of the Art Language models and Classifier for
  Punjabi language (spoken in Indian sub-continent)
